@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 salam git edited
 line2 edited
 line3 edited for me
 line4 edited for me
+>>>>>>> feature-2
