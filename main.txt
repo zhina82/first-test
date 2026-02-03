@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 salam git 
+=======
+salam git edited
+line2 edited
+line3 edited
+line4 edited
+>>>>>>> 84a6b42 (line 1 edit katdam)
