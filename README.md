@@ -41,7 +41,7 @@ The project also includes an **Admin section** for managing products, phone mode
 
 ## Project Purpose
 
-This project was developed as a **university project** to practice and implement the following concepts:
+This project was developed to create and implement a Telegram bot while applying the following concepts and technologies:
 
 * Python programming
 * Telegram Bot development
